@@ -11,3 +11,4 @@ so you can either do a pull or you can do fetch then merge
 
 ok did pull and that worked.
 
+OK making change
