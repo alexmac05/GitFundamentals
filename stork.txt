@@ -4,3 +4,7 @@ i'm a stork dammit
 Oh yeah???
 
 doing a git merge orgin/master
+
+get pull is a fetch and a merge
+
+so you can either do a pull or you can do fetch then merge
