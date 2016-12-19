@@ -1,4 +1,6 @@
 
+I'm making some changes in the same place that feature 3 made changes but now i'm on the master. I'm doing this to illustrate how to do a merge. 
+
 change 1
 i'm a stork dammit
 
