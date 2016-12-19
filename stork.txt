@@ -1,4 +1,6 @@
 
+Making changes to MASTER MASTER MASTER 
+
 I'm making some changes in the same place that feature 3 made changes but now i'm on the master. I'm doing this to illustrate how to do a merge. 
 
 making a change from my new branch called FEATURE 3 - so these are the feature 3 changes!
