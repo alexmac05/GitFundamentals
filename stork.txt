@@ -1,12 +1,6 @@
 
-<<<<<<< HEAD
-Making changes to MASTER MASTER MASTER 
+Making changes in the stork.txt
 
-I'm making some changes in the same place that feature 3 made changes but now i'm on the master. I'm doing this to illustrate how to do a merge. 
-
-=======
-making another changes for FEATURE 3 FEATURE 3 FEATURE 3 FEATURE 3:
->>>>>>> feature3
 making a change from my new branch called FEATURE 3 - so these are the feature 3 changes!
 change 1
 i'm a stork dammit
